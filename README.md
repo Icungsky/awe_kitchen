@@ -1,2 +1,2 @@
-# awe_kitchen
+# Awe's Kitchen
 Our first Odin Project!
